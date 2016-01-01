@@ -11,7 +11,7 @@ public class Main {
 	
 	public static void main(String[] args)
 	{		
-		System.out.println("南方科技大学图书馆");
+		System.out.println("Welcome to SUSTC library:");
 		System.out.println("--------------------");
 		
 		while (getIsAuthenticated() == false)
